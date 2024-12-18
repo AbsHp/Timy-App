@@ -732,4 +732,6 @@ class CirclesLocalizationsDelegate
         CirclesLocalizations(locale));
   }
 
+  @override
+  bool shouldReload(CirclesLocalizationsDelegate old) => false;
 }
