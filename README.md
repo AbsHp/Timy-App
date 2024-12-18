@@ -183,10 +183,3 @@ $ firebase deploy
 The app is setup to work with a development and production environment. We suggest you create a different Firebase app for each environment. 
 
 When building for release the app will automatically use the production configuration that you’ve configured in step `B3`.
-
-# External resources
-
-- [Timy Messenger in itsallwidgets.com](https://itsallwidgets.com/timy-messenger)
-- [Building a Messaging App in Flutter — Part I: Project Structure](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-i-project-structure/)
-- [Building a Messaging App in Flutter — Part II: Main Method](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-ii-main-method/)
-- [Building a Messaging App in Flutter — Part III: Redux](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-iii-redux/)
